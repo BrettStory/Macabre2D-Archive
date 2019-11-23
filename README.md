@@ -1,5 +1,7 @@
 # Macabre2D
 
+> :warning: **WARNING**: This repository has been archived. Go to either [Macabre2D.Framework](https://github.com/BrettStory/Macabre2D.Framework) or [Macabre2D.Engine](https://github.com/BrettStory/Macabre2D.Engine).
+
 A 2D game engine built on top of the MonoGame framework. This project was started on April 23, 2016.
 
 ## Supported Platforms
